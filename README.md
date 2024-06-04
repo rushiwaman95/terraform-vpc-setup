@@ -1,3 +1,10 @@
+## What this repo do
+- Create 1 vpc
+- 4 subnet (2 public and 2 private)
+- 2 route table
+- 1 nat gateway and attache it to private route table
+- 1 iGW
+
 ## Prerequisites
 
 - AWS CLI installed and configured
