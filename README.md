@@ -10,7 +10,6 @@
 - AWS CLI installed and configured
 - Terraform installed
 - Appropriate IAM access
-- `.pem` file created for SSH access
 
 ## Setup Instructions
 
